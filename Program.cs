@@ -21,6 +21,7 @@
             Console.WriteLine("PRESS 3 FOR MULTIPICATION");
             Console.WriteLine("PRESS 4 FOR DIVISION");
 
+            //Console.WriteLine("PRESS 1 FOR SUM");
             string m = Console.ReadLine();
 
 
