@@ -4,6 +4,8 @@
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("It's our first day of C#");
             Console.WriteLine("Hello Please give input:");
 
             Double s1 = Convert.ToDouble(Console.ReadLine());
